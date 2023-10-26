@@ -5,16 +5,16 @@ import Footer from '../composents/Footer';
 function Job() {
   return (
     <>
-        <section className="page-title title-bg2">
-          <div className="d-table">
-              <div className="d-table-cell">
-                  <h2>6 Nouvelle(s) d'emploi(s) </h2>
+        <section class="job-section jobs-grid-section pt-5">
+              <div class="container">
+                  <div class="section-title text-center">
+                      <h5 class="text-success" >6 nouvelles offres d'empoi</h5>
+                  </div>
               </div>
-          </div>
         </section>
 
 
-        <div className="find-section ptb-100">
+        <div className="find-section ptb-2">
           <div className="container">
               <form className="find-form mt-0">
                   <div className="row">

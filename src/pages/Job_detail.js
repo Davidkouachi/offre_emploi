@@ -5,13 +5,6 @@ import Footer from '../composents/Footer';
 function Job_detail() {
   return (
     <>
-        <section className="page-title title-bg2">
-          <div className="d-table">
-              <div className="d-table-cell">
-                  <h2>Détails</h2>
-              </div>
-          </div>
-        </section>
 
         <section class="job-details ptb-100">
           <div class="container">
